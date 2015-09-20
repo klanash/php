@@ -120,7 +120,7 @@ else{
 <small>Réalisé par michael Jacoby</small>
 </main>
 	<?php if($img == "ok"){echo '<img id="img" src="voiture.jpg" width="300px" alt="voiture de papa"/>';} ?>
-	<a href="">Accédez au code sur Github!</a>
+	<a href="https://github.com/klanash/php">Accédez au code sur Github!</a>
 
 
 
